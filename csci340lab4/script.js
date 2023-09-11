@@ -1,10 +1,13 @@
 $(document).ready(function() {
-    $("#clicker").click(function () {
+    $("#clicker1").click(function() {
         $.ajax({
             dataType: "json",
-            url: "https://catboys.com/api/img",
+            url: "https://random-d.uk/api/v2/random",
             success: function(results) {
-                $("#catboy").attr("src", results["url"]);
+                $("#duck").attr("src", results["url"]);
+            },
+            error: function(xhr,status,error) {
+                console.log(error);
             }
         });
     });

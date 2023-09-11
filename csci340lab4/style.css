@@ -1,1 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&family=Oswald&family=Roboto+Slab&display=swap');
 
+h1 {
+    font-family: Merriweather, sans-serif;
+    text-align: center;
+}
+
+h3 {
+    font-family: Merriweather, sans-serif;
+    text-align: center;
+}
+
+p {
+    font-family: Oswald, sans-serif;
+    text-align: center;
+    font-size: 2rem;
+}
+
+.col1 {
+    text-align: center;
+    margin-top: 375px;
+}
+
+.col2 {
+    text-align: center;
+}
