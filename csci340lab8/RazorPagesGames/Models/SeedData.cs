@@ -54,6 +54,14 @@ public static class SeedData
                     ReleaseDate = DateTime.Parse("2003-8-17"),
                     Genre = "Bullet Hell",
                     Platform = "PC"
+                },
+
+                new Game
+                {
+                    Title = "Mahoyo",
+                    ReleaseDate = DateTime.Parse("2012-4-12"),
+                    Genre = "Visual Novel",
+                    Platform = "PC"
                 }
             );
             context.SaveChanges();
