@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\ian04\\Documents\\GitHub\\ianwalker04.github.io\\ianwalker04.github.io\\csci340lab9\\RazorPagesWalker\\WalkerUniversity\\WalkerUniversity.csproj": {}
+    "C:\\Users\\ian04\\Documents\\GitHub\\ianwalker04.github.io\\ianwalker04.github.io\\csci340lab9\\RazorPagesWalker\\WalkerUniversity\\WalkerUniversity.csproj": {}
   },
   "projects": {
-    "c:\\Users\\ian04\\Documents\\GitHub\\ianwalker04.github.io\\ianwalker04.github.io\\csci340lab9\\RazorPagesWalker\\WalkerUniversity\\WalkerUniversity.csproj": {
+    "C:\\Users\\ian04\\Documents\\GitHub\\ianwalker04.github.io\\ianwalker04.github.io\\csci340lab9\\RazorPagesWalker\\WalkerUniversity\\WalkerUniversity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\ian04\\Documents\\GitHub\\ianwalker04.github.io\\ianwalker04.github.io\\csci340lab9\\RazorPagesWalker\\WalkerUniversity\\WalkerUniversity.csproj",
+        "projectUniqueName": "C:\\Users\\ian04\\Documents\\GitHub\\ianwalker04.github.io\\ianwalker04.github.io\\csci340lab9\\RazorPagesWalker\\WalkerUniversity\\WalkerUniversity.csproj",
         "projectName": "WalkerUniversity",
-        "projectPath": "c:\\Users\\ian04\\Documents\\GitHub\\ianwalker04.github.io\\ianwalker04.github.io\\csci340lab9\\RazorPagesWalker\\WalkerUniversity\\WalkerUniversity.csproj",
+        "projectPath": "C:\\Users\\ian04\\Documents\\GitHub\\ianwalker04.github.io\\ianwalker04.github.io\\csci340lab9\\RazorPagesWalker\\WalkerUniversity\\WalkerUniversity.csproj",
         "packagesPath": "C:\\Users\\ian04\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\ian04\\Documents\\GitHub\\ianwalker04.github.io\\ianwalker04.github.io\\csci340lab9\\RazorPagesWalker\\WalkerUniversity\\obj\\",
+        "outputPath": "C:\\Users\\ian04\\Documents\\GitHub\\ianwalker04.github.io\\ianwalker04.github.io\\csci340lab9\\RazorPagesWalker\\WalkerUniversity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ian04\\AppData\\Roaming\\NuGet\\NuGet.Config"
