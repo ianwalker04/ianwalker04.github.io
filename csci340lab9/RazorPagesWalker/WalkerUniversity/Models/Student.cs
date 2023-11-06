@@ -33,6 +33,6 @@ namespace WalkerUniversity.Models
         [Required]
         [Display(Name = "Age")]
 
-        public ICollection<Enrollment> Enrollments { get; set; }
+        public ICollection<Enrollment>? Enrollments { get; set; }
     }
 }

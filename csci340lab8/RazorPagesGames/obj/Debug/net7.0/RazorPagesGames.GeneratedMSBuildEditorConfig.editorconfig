@@ -9,57 +9,57 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = RazorPagesGames
 build_property.RootNamespace = RazorPagesGames
-build_property.ProjectDir = c:\Users\ian04\Documents\GitHub\ianwalker04.github.io\ianwalker04.github.io\csci340lab8\RazorPagesGames\
+build_property.ProjectDir = C:\Users\ian04\Documents\GitHub\ianwalker04.github.io\ianwalker04.github.io\csci340lab8\RazorPagesGames\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\Users\ian04\Documents\GitHub\ianwalker04.github.io\ianwalker04.github.io\csci340lab8\RazorPagesGames
+build_property.MSBuildProjectDirectory = C:\Users\ian04\Documents\GitHub\ianwalker04.github.io\ianwalker04.github.io\csci340lab8\RazorPagesGames
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/Users/ian04/Documents/GitHub/ianwalker04.github.io/ianwalker04.github.io/csci340lab8/RazorPagesGames/Pages/Error.cshtml]
+[C:/Users/ian04/Documents/GitHub/ianwalker04.github.io/ianwalker04.github.io/csci340lab8/RazorPagesGames/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/ian04/Documents/GitHub/ianwalker04.github.io/ianwalker04.github.io/csci340lab8/RazorPagesGames/Pages/Games/Create.cshtml]
+[C:/Users/ian04/Documents/GitHub/ianwalker04.github.io/ianwalker04.github.io/csci340lab8/RazorPagesGames/Pages/Games/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2FtZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/ian04/Documents/GitHub/ianwalker04.github.io/ianwalker04.github.io/csci340lab8/RazorPagesGames/Pages/Games/Delete.cshtml]
+[C:/Users/ian04/Documents/GitHub/ianwalker04.github.io/ianwalker04.github.io/csci340lab8/RazorPagesGames/Pages/Games/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2FtZXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/ian04/Documents/GitHub/ianwalker04.github.io/ianwalker04.github.io/csci340lab8/RazorPagesGames/Pages/Games/Details.cshtml]
+[C:/Users/ian04/Documents/GitHub/ianwalker04.github.io/ianwalker04.github.io/csci340lab8/RazorPagesGames/Pages/Games/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2FtZXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/ian04/Documents/GitHub/ianwalker04.github.io/ianwalker04.github.io/csci340lab8/RazorPagesGames/Pages/Games/Edit.cshtml]
+[C:/Users/ian04/Documents/GitHub/ianwalker04.github.io/ianwalker04.github.io/csci340lab8/RazorPagesGames/Pages/Games/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2FtZXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/ian04/Documents/GitHub/ianwalker04.github.io/ianwalker04.github.io/csci340lab8/RazorPagesGames/Pages/Games/Index.cshtml]
+[C:/Users/ian04/Documents/GitHub/ianwalker04.github.io/ianwalker04.github.io/csci340lab8/RazorPagesGames/Pages/Games/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2FtZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/ian04/Documents/GitHub/ianwalker04.github.io/ianwalker04.github.io/csci340lab8/RazorPagesGames/Pages/Index.cshtml]
+[C:/Users/ian04/Documents/GitHub/ianwalker04.github.io/ianwalker04.github.io/csci340lab8/RazorPagesGames/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/ian04/Documents/GitHub/ianwalker04.github.io/ianwalker04.github.io/csci340lab8/RazorPagesGames/Pages/Privacy.cshtml]
+[C:/Users/ian04/Documents/GitHub/ianwalker04.github.io/ianwalker04.github.io/csci340lab8/RazorPagesGames/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/ian04/Documents/GitHub/ianwalker04.github.io/ianwalker04.github.io/csci340lab8/RazorPagesGames/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/ian04/Documents/GitHub/ianwalker04.github.io/ianwalker04.github.io/csci340lab8/RazorPagesGames/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/ian04/Documents/GitHub/ianwalker04.github.io/ianwalker04.github.io/csci340lab8/RazorPagesGames/Pages/_ViewImports.cshtml]
+[C:/Users/ian04/Documents/GitHub/ianwalker04.github.io/ianwalker04.github.io/csci340lab8/RazorPagesGames/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/ian04/Documents/GitHub/ianwalker04.github.io/ianwalker04.github.io/csci340lab8/RazorPagesGames/Pages/_ViewStart.cshtml]
+[C:/Users/ian04/Documents/GitHub/ianwalker04.github.io/ianwalker04.github.io/csci340lab8/RazorPagesGames/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/ian04/Documents/GitHub/ianwalker04.github.io/ianwalker04.github.io/csci340lab8/RazorPagesGames/Pages/Shared/_Layout.cshtml]
+[C:/Users/ian04/Documents/GitHub/ianwalker04.github.io/ianwalker04.github.io/csci340lab8/RazorPagesGames/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-a9qmibpr2a
